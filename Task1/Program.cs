@@ -4,7 +4,7 @@
 
 
 Console.Clear();
-Console.Write("Введите количество чисел, которы вы хотели бы ввести: ");
+Console.Write("Введите количество чисел, которые вы хотели бы ввести: ");
 int size = int.Parse(Console.ReadLine());
 
 int[] FillArray(int size)
